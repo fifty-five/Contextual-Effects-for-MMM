@@ -14,7 +14,7 @@ The files **external_factors_functions.py** and **utils.py** contain some functi
 
 
 
-## Folder
+## Folders
 
 - The folder **data** contains:
     - The input data: the csv containing the target signal, and the csv containing all the particular events dates
