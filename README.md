@@ -3,7 +3,7 @@ How to properly handle Contectual Effects in Marketing Mix Modeling.
 
 ## Main information
 
-We used ***python 3.8*** to run the notebook.
+We used ***python 3.10*** to run the notebook.
 
 The **requirements.txt** file contains all the packages to install. 
 
